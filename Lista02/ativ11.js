@@ -10,40 +10,40 @@ rl.question('digite um valor de 1 à 12: ', (num) => {
 
     switch (numero) {
         case 1:
-            console.log('Janeiro');
+            console.log('Estação: Verão');
             break;
         case 2:
-            console.log('Fevereiro');
+            console.log('Estação: Verão');
             break;
         case 3:
-            console.log('Março');
+            console.log('Estação: Outono');
             break;
         case 4:
-            console.log('Abril');
+            console.log('Estação: Outono');
             break;
         case 5:
-            console.log('Maio');
+            console.log('Estação: Outono');
             break;
         case 6:
-            console.log('Junho');
+            console.log('Estação: Inverno');
             break;
         case 7:
-            console.log('Julho');
+            console.log('Estação: Inverno');
             break;
         case 8:
-            console.log('Agosto');
+            console.log('Estação: Inverno');
             break;
         case 9:
-            console.log('Setembro');
+            console.log('Estação: Primavera');
             break;
         case 10:
-            console.log('Outubro');
+            console.log('Estação: Primavera');
             break;
         case 11:
-            console.log('Novembro');
+            console.log('Estação: Primavera');
             break;
         case 12:
-            console.log('Dezembro');
+            console.log('Estação: Verão');
             break;
         default:
             console.log('valor não corresponde ao calendário Gregoriano. Por favor, digite um número de 1 a 12.');
